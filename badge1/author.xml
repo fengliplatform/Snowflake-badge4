@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+ 
+ <AUTHOR AUTHOR_UID = 1>
+    <FIRST_NAME>Fiona</FIRST_NAME>
+    <MIDDLE_NAME/>
+    <LAST_NAME>Macdonald</LAST_NAME>
+ </AUTHOR>
+ <AUTHOR AUTHOR_UID = 2>
+    <FIRST_NAME>Gian</FIRST_NAME>
+    <MIDDLE_NAME>Paolo</MIDDLE_NAME>
+    <LAST_NAME>Faleschini</LAST_NAME>
+ </AUTHOR>
+</dataset>
